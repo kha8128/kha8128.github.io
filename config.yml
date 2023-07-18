@@ -1,13 +1,13 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://hyunakwon.github.io/" 
+title: Hyuna Kwon
 paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-social:
-    twitter: pmichaillat
+#social:
+#    twitter: pmichaillat
 
 taxonomies:
     tag: tags

@@ -31,9 +31,9 @@ menu:
           weight: 4
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
-    author: Pascal Michaillat
-    googleAnalyticsID: "G-97G4MZ4061"
+    description: "I am a postdoctoral researcher at Lawrence Livermore National Lab. My research covers computational materials science."
+    author: Hyuna Kwon
+    #googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -55,12 +55,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists and why it fluctuates over the business cycle. I also study how macroeconomic policies—including monetary policy, government spending, unemployment insurance, and immigration—should respond to such cyclical fluctuations."
+          title: Hyuna Kwon 
+          subtitle: "I am a postdoctoral researcher at Lawrence Livermore National Lab. My research covers computational materials science."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Pascal Michaillat
+          imageTitle: Hyuna Kwon
           buttons:
             - name: Papers
               url: /papers/
@@ -68,23 +68,23 @@ params:
               url: /courses/
             - name: Design
               url: /design/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            #- name: Newsletter
+            #  url: https://pmichaillat.substack.com
     socialIcons:
         - name: CV
           url: /cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: kwon11@llnl.gov
         - name: Location
           url: /location/
         - name: Office Hours
           url: /officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat?tab=repositories
+          url: https://scholar.google.com/citations?user=Oq-hGnwAAAAJ&hl=en
+        #- name: YouTube
+        #  url: https://www.youtube.com/@pmichaillat
+        #- name: GitHub
+        #  url: https://github.com/pmichaillat?tab=repositories
 
     assets:
         disableHLJS: true
@@ -93,7 +93,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Hyuna Kwon"
       icon: /favicon.ico
       iconHeight: 18
 

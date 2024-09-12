@@ -17,15 +17,18 @@ menu:
         - name: Papers
           url: /papers/
           weight: 1
-        - name: Courses
-          url: /courses/
-          weight: 2
-        - name: Design
-          url: /design/
+#        - name: Courses
+#          url: /courses/
+#          weight: 2
+#        - name: Design
+#          url: /design/
+#          weight: 3
+#        - name: Tags
+#          url: /tags/
+#          weight: 5    
+        - name: CV
+          url: /cv/
           weight: 3
-        - name: Tags
-          url: /tags/
-          weight: 5     
         - name: Newsletter
           url: https://pmichaillat.substack.com
           weight: 4
@@ -64,10 +67,10 @@ params:
           buttons:
             - name: Papers
               url: /papers/
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
+#            - name: Courses
+#              url: /courses/
+#            - name: Design
+#              url: /design/
             #- name: Newsletter
             #  url: https://pmichaillat.substack.com
     socialIcons:
@@ -75,10 +78,10 @@ params:
           url: /cv.pdf
         - name: Email
           url: kwon11@llnl.gov
-        - name: Location
-          url: /location/
-        - name: Office Hours
-          url: /officehours/
+#        - name: Location
+#          url: /location/
+#        - name: Office Hours
+#          url: /officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=Oq-hGnwAAAAJ&hl=en
         #- name: YouTube

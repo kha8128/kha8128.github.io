@@ -65,8 +65,8 @@ params:
           imageHeight: 160
           imageTitle: Hyuna Kwon
           buttons:
-            - name: Papers
-              url: /papers/
+#            - name: Papers
+#              url: /papers/
 #            - name: Courses
 #              url: /courses/
 #            - name: Design

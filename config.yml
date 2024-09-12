@@ -14,9 +14,9 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: /papers/
-          weight: 1
+#        - name: Papers
+#          url: /papers/
+#          weight: 1
 #        - name: Courses
 #          url: /courses/
 #          weight: 2
@@ -29,9 +29,9 @@ menu:
         - name: CV
           url: /cv/
           weight: 3
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+#        - name: Newsletter
+#          url: https://pmichaillat.substack.com
+#          weight: 4
 
 params:
     description: "I am a postdoctoral researcher at Lawrence Livermore National Lab. My research covers computational materials science."
@@ -59,7 +59,7 @@ params:
     profileMode:
           enabled: true
           title: Hyuna Kwon 
-          subtitle: "I am a postdoctoral researcher at Lawrence Livermore National Lab. My research covers computational materials science."
+          subtitle: "I am a postdoctoral researcher at Lawrence Livermore National Lab. My research covers computational materials science and machine learning."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160

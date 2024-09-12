@@ -4,13 +4,13 @@ title: Welcome
 
 # Welcome to Hyuna Kwon's Website
 
-![Hyuna Kwon]( /images/picture.jpeg){ width=160px height=160px }
+![Hyuna Kwon's Profile](https://kha8128.github.io/picture.jpeg)
 
-I am a postdoctoral researcher at LLNL working in computational quantum chemistry and machine learning. My research focuses on:
+I am a postdoctoral researcher at LLNL focusing on computational quantum chemistry and machine learning. My research covers:
 
-- Energy systems: Hydrogen storage, battery systems
-- Environmental systems: PFAS, carboxylic acids in aerosols
-- Biosystems: DNA conductivity
+- **Energy systems**: Hydrogen storage, battery systems
+- **Environmental systems**: PFAS, carboxylic acids in aerosols
+- **Biosystems**: DNA conductivity
 
 Feel free to explore my [Papers](/papers/)!
 

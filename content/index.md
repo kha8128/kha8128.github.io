@@ -4,7 +4,7 @@ title: Welcome
 
 # Welcome to Hyuna Kwon's Website
 
-![Hyuna Kwon's Profile](https://kha8128.github.io/picture.jpeg)
+![Hyuna Kwon's Profile](https://kha8128.github.io/picture.jpeg){ width=160px height=160px }
 
 I am a postdoctoral researcher at LLNL focusing on computational quantum chemistry and machine learning. My research covers:
 

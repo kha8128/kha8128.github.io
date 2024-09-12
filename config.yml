@@ -60,7 +60,7 @@ params:
           enabled: true
           title: Hyuna Kwon 
           subtitle: "I am a postdoctoral researcher at Lawrence Livermore National Lab. My research covers computational materials science."
-          imageUrl: "static/picture.jpeg"
+          imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Hyuna Kwon

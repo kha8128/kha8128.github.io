@@ -11,7 +11,8 @@ title: "Publications"
 
 
 18. **Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models**
-   **H Kwon**, T Hsu, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...
+   **H Kwon***, T Hsu*, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
+   * Equal contribution  
    *Accepted; Machine Learning: Science & Technology*
    [Read the paper](https://arxiv.org/abs/2312.05472)
 

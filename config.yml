@@ -14,8 +14,8 @@ taxonomies:
 
 menu:
     main:
-#        - name: Papers
-#          url: /papers/
+        - name: Publications 
+          url: /publications/
 #          weight: 1
 #        - name: Courses
 #          url: /courses/

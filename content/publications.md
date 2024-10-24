@@ -9,7 +9,13 @@ title: "Publications"
    *arXiv preprint arXiv:2408.15601*
    [Read the paper](https://arxiv.org/abs/2408.15601)
 
-18. **Confinement Effects on Proton Transfer in TiO2 Nanopores from Machine Learning Potential Molecular Dynamics Simulations**  
+
+18. **Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models**
+   **H Kwon**, T Hsu, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...
+   *Accepted; Machine Learning: Science & Technology*
+   [Read the paper](https://arxiv.org/abs/2312.05472)
+
+17. **Confinement Effects on Proton Transfer in TiO2 Nanopores from Machine Learning Potential Molecular Dynamics Simulations**  
    **H Kwon**, MF Calegari Andrade, S Ardo, DV Esposito, TA Pham, T Ogitsu  
    *ACS Applied Materials & Interfaces*
    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339)  
@@ -17,11 +23,6 @@ title: "Publications"
    [Featured on DOE Newsline](https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces)
 
 ### 2023
-
-17. **Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models**  
-   **H Kwon**, T Hsu, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
-   *Accepted; Machine Learning: Science & Technology*
-   [Read the paper](https://arxiv.org/abs/2312.05472)
 
 16. **Harnessing Neural Networks for Elucidating X-ray Absorption Structure–Spectrum Relationships in Amorphous Carbon**  
    **H Kwon**, W Sun, T Hsu, W Jeong, F Aydin, S Sharma, F Meng, ...  

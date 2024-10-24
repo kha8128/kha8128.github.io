@@ -12,7 +12,9 @@ title: "Publications"
 18. **Confinement Effects on Proton Transfer in TiO2 Nanopores from Machine Learning Potential Molecular Dynamics Simulations**  
    **H Kwon**, MF Calegari Andrade, S Ardo, DV Esposito, TA Pham, T Ogitsu  
    *ACS Applied Materials & Interfaces*
-   [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339)
+   [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339)  
+   [Featured on LLNL Newsline](https://www.llnl.gov/article/51441/nano-confinement-may-be-key-improving-hydrogen-production)  
+   [Featured on DOE Newsline](https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces)
 
 ### 2023
 

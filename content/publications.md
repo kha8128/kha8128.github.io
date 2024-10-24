@@ -1,6 +1,5 @@
 ---
 title: "Publications"  
-tags: ["machine learning", "hydrogen storage", "machine learning potential molecular dynamics","inverse design","structure-property relationship","energy materials","environmental remediation","generative diffusion model","hydrogen production","characterization","ab initio","bio system"]
 ---
 
 ### 2024
@@ -9,16 +8,12 @@ tags: ["machine learning", "hydrogen storage", "machine learning potential molec
    B Lei, E Chen, **H Kwon**, T Hsu, B Sadigh, V Lordi, T Frolov, F Zhou  
    *arXiv preprint arXiv:2408.15601*
    [Read the paper](https://arxiv.org/abs/2408.15601)  
-   _Tags: [machine learning, generative diffusion models]_
-
 
 18. **Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models**  
    **H Kwon***, T Hsu*, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
    * Equal contribution  
    *Accepted; Machine Learning: Science & Technology*
    [Read the paper](https://arxiv.org/abs/2312.05472)  
-   _Tags: [machine learning, inverse design, generative diffusion model]_
-
 
 17. **Confinement Effects on Proton Transfer in TiO<sub>2 Nanopores from Machine Learning Potential Molecular Dynamics Simulations**  
    **H Kwon**, MF Calegari Andrade, S Ardo, DV Esposito, TA Pham, T Ogitsu  
@@ -26,7 +21,6 @@ tags: ["machine learning", "hydrogen storage", "machine learning potential molec
    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339)  
    [Featured in LLNL Newsline](https://www.llnl.gov/article/51441/nano-confinement-may-be-key-improving-hydrogen-production)  
    [Featured in DOE Newsline](https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces)  
-   _Tags: [machine learning potential molecular dynamics, hydrogen production]_
 
 ### 2023
 
@@ -34,14 +28,11 @@ tags: ["machine learning", "hydrogen storage", "machine learning potential molec
    **H Kwon**, W Sun, T Hsu, W Jeong, F Aydin, S Sharma, F Meng, ...  
    *The Journal of Physical Chemistry C 127 (33), 16473-16484*
    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c02029)
-   _Tags: [structure-property relationship, machine learning, characterization]_
 
 15. **Electron/Hole Mobilities of Periodic DNA and Nucleobase Structures from Large-Scale DFT Calculations**  
    **H Kwon**, A Kumar, M Del Ben, BM Wong  
    *The Journal of Physical Chemistry B 127 (26), 5755-5763*
    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.2c09141)
-   _Tags: [ab initio, bio system]_
-
 
 14. **Bromonium-Mediated Electrochemical Synthesis of 3-Pyridinol from Biomass-Derived Furfurylamine**  
    K Yan, **H Kwon**, M Huddleston, D Jiang, Y Sun  

@@ -34,7 +34,9 @@ menu:
 #          weight: 4
 
 params:
-    description: "I am a postdoctoral researcher at Lawrence Livermore National Lab. My research covers computational materials science."
+    description: "Greetings! I am Hyuna Kwon, a postdoctoral researcher at Lawrence Livermore National Lab. My research focuses on computational chemistry, machine learning, and materials science.
+
+I am passionate about the intersection of AI and materials discovery, particularly in energy applications and sustainability. Please check out my CV and publications for more details about my work."
     author: Hyuna Kwon
     #googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -59,7 +61,7 @@ params:
     profileMode:
           enabled: true
           title: Hyuna Kwon 
-          subtitle: "I am a postdoctoral researcher at Lawrence Livermore National Lab. My research covers computational materials science and machine learning."
+          subtitle: "Postdoctoral researcher at Lawrence Livermore National Lab. My research focuses on computational chemistry and AI-driven materials science."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -67,8 +69,8 @@ params:
           buttons:
 #            - name: Papers
 #              url: /papers/
-#            - name: Courses
-#              url: /courses/
+            - name: About 
+              url: /about/
 #            - name: Design
 #              url: /design/
             #- name: Newsletter

@@ -29,7 +29,7 @@ To address these challenges, I have applied <b>machine learning</b> models to pr
 Porous and nanostructured materials exhibit unique properties that make them essential for a wide range of applications, from energy storage to catalysis. However, understanding how molecular-level phenomena, such as proton transfer and gas adsorption, behave within these structures is still a significant challenge.
 
 #### Proton Transfer in Nanoporous TiO₂ (Machine Learning Potential)
-Nanoporous TiO₂ exhibits unique water splitting catalytic properties, critical for applications such as photocatalysis and energy storage. By leveraging <b>machine learning potentials</b>, we explore the confinement effects on proton transfer within these materials. This allows us to better understand and predict proton behavior within the nanoporous environment, optimizing porous coatings for improved performance.
+Nanoporous TiO₂ exhibits unique water splitting catalytic properties, critical for applications such as photocatalysis and hydrogen production. By leveraging <b>machine learning potentials</b>, we explore the confinement effects on proton transfer within these materials. This allows us to better understand and predict proton behavior within the nanoporous environment, optimizing porous coatings for improved catalytic performance.
 <img src="/images/aamick.2024.16.issue-24.xlargecover-3-3.jpg" alt="TiO2 Research Figure" style="width: 50%;"/>
 
 #### Hydrogen Storage in Metal-Organic Frameworks (DFT Thermodynamics)

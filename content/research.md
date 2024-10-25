@@ -2,7 +2,7 @@
 title: "Research"  
 ---
 
-### Perfluoroalkyl substances (PFAS) 
+### Environmental Remediation 
 
 #### Current Challenges:
 Perfluoroalkyl substances (PFAS) are a group of man-made chemicals that are highly persistent in the environment and human body, leading to adverse health effects. Major challenges include:
@@ -12,7 +12,7 @@ Perfluoroalkyl substances (PFAS) are a group of man-made chemicals that are high
 
 To address these challenges, I have applie machine learning approaches to uncover structure-property relationship to predict bioactivities and degradability of PFAS.
 
-![PFAS Research Figure](/static/images/images_large_ez2c00530_0005.jpeg)
+![PFAS Research Figure](/images/images_large_ez2c00530_0005.jpeg)
 
 #### Key Publications:
 

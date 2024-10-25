@@ -29,6 +29,9 @@ menu:
         - name: CV
           url: /cv/
           weight: 3
+        - name: Research
+          url: /research/
+          weight: 3
 #        - name: Newsletter
 #          url: https://pmichaillat.substack.com
 #          weight: 4
@@ -73,8 +76,8 @@ I am passionate about the intersection of AI and materials discovery, particular
               url: /about/
             - name: Publications 
               url: /publications/
-            #- name: Newsletter
-            #  url: https://pmichaillat.substack.com
+            - name: Research 
+              url: /research/ 
     socialIcons:
         - name: CV
           url: /cv.pdf

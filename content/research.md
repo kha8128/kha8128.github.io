@@ -10,7 +10,7 @@ Perfluoroalkyl substances (PFAS) are a group of man-made chemicals that are high
 - **Toxicity**: Emerging research links PFAS to several serious health conditions such as cancer, hormone disruption, and immune system dysfunction.
 - **Remediation**: Current methods to remove or degrade PFAS from water and soil are expensive and not entirely efficient.
 
-To address these challenges, I have applie machine learning approached to uncover structure-property relationship to predict bioactivities and degradability of PFAS.
+To address these challenges, I have applie machine learning approaches to uncover structure-property relationship to predict bioactivities and degradability of PFAS.
 
 ![PFAS Research Figure](/static/images/images_large_ez2c00530_0005.jpeg)
 

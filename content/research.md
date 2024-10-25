@@ -7,7 +7,7 @@ title: "Research"
 Amorphous carbon (a-C) is a widely used material in electronics, energy storage, and coatings due to its unique properties, including high hardness, chemical stability, and tunable electronic properties. Characterizing amorphous carbon accurately is crucial to understand its performance in various applications, yet conventional methods struggle with its complex, non-crystalline structure.
 
 #### Our Approach:
-To address these challenges, I have applied machine learning models to predict the three-dimensional structure of amorphous carbon based on spectroscopy data. Using neural networks, we link spectral features to the atomic structure, allowing us to uncover previously unknown structure-spectrum relationships. This work also lays the foundation for using <b>generative models</b> to design new materials with desired properties.
+To address these challenges, I have applied <b>machine learning</b> models to predict the three-dimensional structure of amorphous carbon based on spectroscopy data. Using neural networks, we link spectral features to the atomic structure, allowing us to uncover previously unknown structure-spectrum relationships. This work also lays the foundation for using <b>generative models</b> to design new materials with desired properties.
 
 <img src="/images/jpccck.2023.127.issue-33.xlargecover-2.jpg" alt="a-C Research Figure" style="width: 50%;"/>
 
@@ -32,7 +32,7 @@ Perfluoroalkyl substances (PFAS) are a group of man-made chemicals that are high
 - **Toxicity**: Emerging research links PFAS to several serious health conditions such as cancer, hormone disruption, and immune system dysfunction.
 - **Remediation**: Current methods to remove or degrade PFAS from water and soil are expensive and not entirely efficient.
 
-To address these challenges, I have applie machine learning approaches to uncover structure-property relationship to predict bioactivities and degradability of PFAS.
+To address these challenges, I have applie <b>machine learning</b> approaches to uncover structure-property relationship to predict bioactivities and degradability of PFAS.
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
     <img src="/images/images_large_ez2c00530_0005.jpeg" alt="PFAS Research Figure" style="width: 45%; height: auto;"/>

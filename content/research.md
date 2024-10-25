@@ -9,7 +9,7 @@ Amorphous carbon (a-C) is a widely used material in electronics, energy storage,
 #### Our Approach:
 To address these challenges, I have applied <b>machine learning</b> models to predict the three-dimensional structure of amorphous carbon based on spectroscopy data. Using neural networks, we link spectral features to the atomic structure, allowing us to uncover previously unknown structure-spectrum relationships. This work also lays the foundation for using <b>generative models</b> to design new materials with desired properties.
 
-<img src="/images/aamick.2024.16.issue-24.xlargecover-3-3.jpg" alt="TiO2 Research Figure" style="width: 50%;"/>
+<img src="/images/jpccck.2023.127.issue-33.xlargecover-2.jpg" alt="a-C Research Figure" style="width: 50%;"/>
 
 #### Key Publications:
 
@@ -30,7 +30,7 @@ Porous and nanostructured materials exhibit unique properties that make them ess
 
 #### Proton Transfer in Nanoporous TiO₂ (Machine Learning Potential)
 Nanoporous TiO₂ exhibits unique water splitting catalytic properties, critical for applications such as photocatalysis and energy storage. By leveraging <b>machine learning potentials</b>, we explore the confinement effects on proton transfer within these materials. This allows us to better understand and predict proton behavior within the nanoporous environment, optimizing porous coatings for improved performance.
-<img src="aamick.2024.16.issue-24.xlargecover-3-3.jpg" alt="a-C Research Figure" style="width: 50%;"/>
+<img src="/images/aamick.2024.16.issue-24.xlargecover-3-3.jpg" alt="TiO2 Research Figure" style="width: 50%;"/>
 
 #### Hydrogen Storage in Metal-Organic Frameworks (DFT Thermodynamics)
 Metal-Organic Frameworks (MOFs) are highly porous materials known for their capacity to store gases like hydrogen. Using Density Functional Theory (DFT), we study the thermodynamic properties of hydrogen adsorption in MOFs, providing insights into their potential use in hydrogen storage applications. This research aims to design MOF structures with improved hydrogen storage capacity and stability, contributing to energy storage solutions.

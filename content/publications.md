@@ -15,7 +15,7 @@ title: "Publications"
    *Accepted; Machine Learning: Science & Technology*
    [Read the paper](https://arxiv.org/abs/2312.05472)  
 
-17. **Confinement Effects on Proton Transfer in TiO<sub>2 Nanopores from Machine Learning Potential Molecular Dynamics Simulations**  
+17. **Confinement Effects on Proton Transfer in TiO<sub>2<sub> Nanopores from Machine Learning Potential Molecular Dynamics Simulations**  
    **H Kwon**, MF Calegari Andrade, S Ardo, DV Esposito, TA Pham, T Ogitsu  
    *ACS Applied Materials & Interfaces*
    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339)  

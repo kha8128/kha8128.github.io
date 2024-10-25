@@ -12,7 +12,7 @@ Perfluoroalkyl substances (PFAS) are a group of man-made chemicals that are high
 
 To address these challenges, I have applie machine learning approached to uncover structure-property relationship to predict bioactivities and degradability of PFAS.
 
-![PFAS Research Figure](images/images_large_ez2c00530_0005.jpeg)
+![PFAS Research Figure](/static/images/images_large_ez2c00530_0005.jpeg)
 
 #### Key Publications:
 

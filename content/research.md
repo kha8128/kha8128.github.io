@@ -9,7 +9,7 @@ Amorphous carbon (a-C) is a widely used material in electronics, energy storage,
 #### Our Approach:
 To address these challenges, I have applied machine learning models to predict the three-dimensional structure of amorphous carbon based on spectroscopy data. Using neural networks, we link spectral features to the atomic structure, allowing us to uncover previously unknown structure-spectrum relationships. This work also lays the foundation for using <b>generative models</b> to design new materials with desired properties.
 
-![a-C Research Figure](/images/jpccck.2023.127.issue-33.xlargecover-2.jpg)
+<img src="/images/jpccck.2023.127.issue-33.xlargecover-2.jpg" alt="a-C Research Figure" style="width: 50%;"/>
 
 #### Key Publications:
 

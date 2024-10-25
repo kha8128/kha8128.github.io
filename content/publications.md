@@ -23,28 +23,24 @@ title: "Publications"
       [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339)  
       [Featured in LLNL Newsline](https://www.llnl.gov/article/51441/nano-confinement-may-be-key-improving-hydrogen-production)  
       [Featured in DOE Newsline](https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces)  
-   </li>
 
    ### 2023
-   
-   16. **Harnessing Neural Networks for Elucidating X-ray Absorption Structure–Spectrum Relationships in Amorphous Carbon**  
+   <li>**Harnessing Neural Networks for Elucidating X-ray Absorption Structure–Spectrum Relationships in Amorphous Carbon**  
       <u>H Kwon</u>, W Sun, T Hsu, W Jeong, F Aydin, S Sharma, F Meng, ...  
       *The Journal of Physical Chemistry C 127 (33), 16473-16484*
       [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c02029)  
    
-   
-   15. **Electron/Hole Mobilities of Periodic DNA and Nucleobase Structures from Large-Scale DFT Calculations**  
+   <li>**Electron/Hole Mobilities of Periodic DNA and Nucleobase Structures from Large-Scale DFT Calculations**  
       <u>H Kwon</u>, A Kumar, M Del Ben, BM Wong  
       *The Journal of Physical Chemistry B 127 (26), 5755-5763*
       [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.2c09141)  
    
-   
-   14. **Bromonium-Mediated Electrochemical Synthesis of 3-Pyridinol from Biomass-Derived Furfurylamine**  
+   <li>**Bromonium-Mediated Electrochemical Synthesis of 3-Pyridinol from Biomass-Derived Furfurylamine**  
       K Yan, <u>H Kwon</u>, M Huddleston, D Jiang, Y Sun  
       *The Journal of Physical Chemistry C 127 (21), 10107-10113*
       [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c02245)  
    
-   
+</ol>   
    ### 2022
    
    13. **Tuning Metal–Dihydrogen Interaction in Metal–Organic Frameworks for Hydrogen Storage**  

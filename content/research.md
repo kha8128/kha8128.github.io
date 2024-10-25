@@ -36,11 +36,12 @@ Nanoporous TiO₂ exhibits unique water splitting catalytic properties, critical
 Metal-Organic Frameworks (MOFs) are highly porous materials known for their capacity to store gases like hydrogen. Using Density Functional Theory (DFT), we study the thermodynamic properties of hydrogen adsorption in MOFs, providing insights into their potential use in hydrogen storage applications. This research aims to design MOF structures with improved hydrogen storage capacity and stability, contributing to energy storage solutions.
 
 #### Key Publications:
-
-1. **Proton Transfer in Nanoporous TiO₂ from Machine Learning Potential Molecular Dynamics Simulations**  
-   <u>H Kwon</u>, MF Calegari Andrade, S Ardo, DV Esposito, TA Pham, T Ogitsu  
-   <i>ACS Applied Materials & Interfaces</i>  
-   [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339)
+1. <b>Confinement Effects on Proton Transfer in TiO<sub>2</sub> Nanopores from Machine Learning Potential Molecular Dynamics Simulations</b> 
+   <br><u>H Kwon</u>, MF Calegari Andrade, S Ardo, DV Esposito, TA Pham, T Ogitsu
+   <br><i>ACS Applied Materials & Interfaces</i>
+   <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339">Read the paper</a>
+   <br><a href="https://www.llnl.gov/article/51441/nano-confinement-may-be-key-improving-hydrogen-production">Featured in LLNL Newsline</a>  
+   <a href="https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces">Featured in DOE Newsline</a>
 
 2. **Tuning Metal–Dihydrogen Interaction in Metal–Organic Frameworks for Hydrogen Storage**  
    <u>H Kwoni</u>, D Jiang  

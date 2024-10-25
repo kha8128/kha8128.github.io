@@ -16,14 +16,13 @@ To address these challenges, I have applie machine learning approached to uncove
 
 #### Key Publications:
 
-19. **Grand canonical generative diffusion model for crystalline phases and grain boundaries**  
-   B Lei, E Chen, **H Kwon**, T Hsu, B Sadigh, V Lordi, T Frolov, F Zhou  
-   *arXiv preprint arXiv:2408.15601*
-   [Read the paper](https://arxiv.org/abs/2408.15601)  
+12. **Harnessing semi-supervised machine learning to automatically predict bioactivities of per-and polyfluoroalkyl substances (PFASs)** 
+   **H Kwon**, ZA Ali, BM Wong
+   *Environmental Science & Technology Letters 10 (11), 1017-1022*
+   [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.estlett.2c00530)
 
-18. **Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models**  
-   **H Kwon***, T Hsu*, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
-   * Equal contribution  
-   *Accepted; Machine Learning: Science & Technology*
-   [Read the paper](https://arxiv.org/abs/2312.05472)  
+5. **A Machine Learning Approach for Predicting Defluorination of Per-and Polyfluoroalkyl Substances (PFAS) for Their Efficient Treatment and Removal**
+    A Raza, S Bardhan, L Xu, SS Yamijala, C Lian, **H Kwon**, BM Wong  
+    *Environmental Science & Technology Letters 6 (10), 624-629* 
+    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.estlett.9b00476)
 

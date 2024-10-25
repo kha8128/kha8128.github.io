@@ -118,7 +118,7 @@ title: "Publications"
        <a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.8b02772">Read the paper</a>  
    </li> 
    
-   <li><b>Analysis of the Anode Reaction of Solid Oxide Electrolyzer Cells with BaZr0.4Ce0.4Y0.2O3-δ Electrolytes and Sm0.5Sr0.5CoO3-δ Anodes</b>  
+   <li><b>Analysis of the Anode Reaction of Solid Oxide Electrolyzer Cells with BaZr<sub>0.4</sub>Ce<sub>0.4</sub>Y<sub>0.2</sub>O<sub>3-δ</sub> Electrolytes and Sm0.5Sr0.5CoO3-δ Anodes</b>  
        <br>T Kobayashi, K Kuroda, SW Jeong, <u>H Kwon</u>, C Zhu, H Habazaki, Y Aoki  
        <br><i>Journal of The Electrochemical Society 165 (5), F342</i>
        <a href="https://iopscience.iop.org/article/10.1149/2.0891805jes/meta">Read the paper</a>  

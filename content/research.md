@@ -19,12 +19,12 @@ To address these challenges, I have applie machine learning approaches to uncove
 1. **Harnessing semi-supervised machine learning to automatically predict bioactivities of per-and polyfluoroalkyl substances (PFASs)**   
    **H Kwon**, ZA Ali, BM Wong
    *Environmental Science & Technology Letters 10 (11), 1017-1022*
-   [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.estlett.2c00530)
+   [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.estlett.2c00530)  
 
 2. **Degradation of perfluoroalkyl ether carboxylic acids with hydrated electrons: Structure–reactivity relationships and environmental implications**  
     MJ Bentel, Y Yu, L Xu, **H Kwon**, Z Li, BM Wong, Y Men, J Liu
     *Environmental Science & Technology 54 (4), 2489-2499*
-    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.est.9b05869)
+    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.est.9b05869)  
 
 3. **A Machine Learning Approach for Predicting Defluorination of Per-and Polyfluoroalkyl Substances (PFAS) for Their Efficient Treatment and Removal**
     A Raza, S Bardhan, L Xu, SS Yamijala, C Lian, **H Kwon**, BM Wong  

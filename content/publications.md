@@ -46,7 +46,7 @@ title: "Publications"
    *The Journal of Physical Chemistry Letters 13 (39), 9129-9133*
    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.2c02628)
 
-12. **Harnessing semi-supervised machine learning to automatically predict bioactivities of per-and polyfluoroalkyl substances (PFASs)**  
+12. **Harnessing semi-supervised machine learning to automatically predict bioactivities of per-and polyfluoroalkyl substances (PFASs)**   
    **H Kwon**, ZA Ali, BM Wong  
    *Environmental Science & Technology Letters 10 (11), 1017-1022*
    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.estlett.2c00530)

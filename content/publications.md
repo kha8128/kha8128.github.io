@@ -4,41 +4,48 @@ title: "Publications"
 
 ### 2024
 <ol reversed>
-   <li>**Grand canonical generative diffusion model for crystalline phases and grain boundaries**  
+   <li>
+      <b>Grand canonical generative diffusion model for crystalline phases and grain boundaries</b>  
       B Lei, E Chen, <u>H Kwon</u>, T Hsu, B Sadigh, V Lordi, T Frolov, F Zhou  
       *arXiv preprint arXiv:2408.15601*
       [Read the paper](https://arxiv.org/abs/2408.15601)  
    </li>
 
-   <li>**Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models**  
+   <li>
+      **Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models**  
       <u>H Kwon</u>, T Hsu*, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
       * Equal contribution  
       *Accepted; Machine Learning: Science & Technology*
       [Read the paper](https://arxiv.org/abs/2312.05472)  
    </li>
    
-   <li>**Confinement Effects on Proton Transfer in TiO<sub>2</sub> Nanopores from Machine Learning Potential Molecular Dynamics Simulations**  
+   <li>
+      **Confinement Effects on Proton Transfer in TiO<sub>2</sub> Nanopores from Machine Learning Potential Molecular Dynamics Simulations**  
       <u>H Kwon</u>, MF Calegari Andrade, S Ardo, DV Esposito, TA Pham, T Ogitsu  
       *ACS Applied Materials & Interfaces*
       [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339)  
       [Featured in LLNL Newsline](https://www.llnl.gov/article/51441/nano-confinement-may-be-key-improving-hydrogen-production)  
-      [Featured in DOE Newsline](https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces)  
+      [Featured in DOE Newsline](https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces)
+   </li>
 
    ### 2023
    <li>**Harnessing Neural Networks for Elucidating X-ray Absorption Structure–Spectrum Relationships in Amorphous Carbon**  
       <u>H Kwon</u>, W Sun, T Hsu, W Jeong, F Aydin, S Sharma, F Meng, ...  
       *The Journal of Physical Chemistry C 127 (33), 16473-16484*
-      [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c02029)  
+      [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c02029) 
+   </li>
    
    <li>**Electron/Hole Mobilities of Periodic DNA and Nucleobase Structures from Large-Scale DFT Calculations**  
       <u>H Kwon</u>, A Kumar, M Del Ben, BM Wong  
       *The Journal of Physical Chemistry B 127 (26), 5755-5763*
       [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.2c09141)  
+   </li>
    
    <li>**Bromonium-Mediated Electrochemical Synthesis of 3-Pyridinol from Biomass-Derived Furfurylamine**  
       K Yan, <u>H Kwon</u>, M Huddleston, D Jiang, Y Sun  
       *The Journal of Physical Chemistry C 127 (21), 10107-10113*
-      [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c02245)  
+      [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c02245) 
+   </li>
    
 </ol>   
    ### 2022

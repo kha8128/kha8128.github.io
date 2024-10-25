@@ -1,9 +1,8 @@
 ---
 title: "Publications"  
 ---
-
-### 2024
 <ol reversed>
+### 2024
    <li>
       <b>Grand canonical generative diffusion model for crystalline phases and grain boundaries</b>  
       <br>B Lei, E Chen, <u>H Kwon</u>, T Hsu, B Sadigh, V Lordi, T Frolov, F Zhou  

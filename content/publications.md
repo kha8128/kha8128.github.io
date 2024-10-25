@@ -6,26 +6,26 @@ title: "Publications"
 <ol reversed>
    <li>
       <b>Grand canonical generative diffusion model for crystalline phases and grain boundaries</b>  
-      B Lei, E Chen, <u>H Kwon</u>, T Hsu, B Sadigh, V Lordi, T Frolov, F Zhou  
-      *arXiv preprint arXiv:2408.15601*
-      [Read the paper](https://arxiv.org/abs/2408.15601)  
+      <br>B Lei, E Chen, <u>H Kwon</u>, T Hsu, B Sadigh, V Lordi, T Frolov, F Zhou  
+      <br><i>arXiv preprint arXiv:2408.15601</i>
+      <br>[Read the paper](https://arxiv.org/abs/2408.15601)  
    </li>
 
    <li>
-      **Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models**  
-      <u>H Kwon</u>, T Hsu*, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
-      * Equal contribution  
-      *Accepted; Machine Learning: Science & Technology*
+      <b>Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models</b>  
+      <br><u>H Kwon</u><sup>1</sup>, T Hsu<sup>1</sup>, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
+      <br><sup>1</sup> Equal contribution  
+      <br><i>Accepted; Machine Learning: Science & Technology</i>
       [Read the paper](https://arxiv.org/abs/2312.05472)  
    </li>
    
    <li>
-      **Confinement Effects on Proton Transfer in TiO<sub>2</sub> Nanopores from Machine Learning Potential Molecular Dynamics Simulations**  
-      <u>H Kwon</u>, MF Calegari Andrade, S Ardo, DV Esposito, TA Pham, T Ogitsu  
-      *ACS Applied Materials & Interfaces*
-      [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339)  
-      [Featured in LLNL Newsline](https://www.llnl.gov/article/51441/nano-confinement-may-be-key-improving-hydrogen-production)  
-      [Featured in DOE Newsline](https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces)
+      <b>Confinement Effects on Proton Transfer in TiO<sub>2</sub> Nanopores from Machine Learning Potential Molecular Dynamics Simulations</b>  
+      <br><u>H Kwon</u>, MF Calegari Andrade, S Ardo, DV Esposito, TA Pham, T Ogitsu  
+      <br><i>ACS Applied Materials & Interfaces</i>
+      <br>[Read the paper](https://pubs.acs.org/doi/abs/10.1021/acsami.4c02339)  
+      <br>[Featured in LLNL Newsline](https://www.llnl.gov/article/51441/nano-confinement-may-be-key-improving-hydrogen-production)  
+      <br>[Featured in DOE Newsline](https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces)
    </li>
 
    ### 2023

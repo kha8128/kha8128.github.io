@@ -2,6 +2,7 @@
 title: "Publications"  
 ---
 <ol reversed>
+
 ### 2024
    <li>
       <b>Grand canonical generative diffusion model for crystalline phases and grain boundaries</b>  

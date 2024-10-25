@@ -124,7 +124,7 @@ title: "Publications"
        <a href="https://iopscience.iop.org/article/10.1149/2.0891805jes/meta">Read the paper</a>  
     </li>
    
-   <li><b>Evaluation of thin film fuel cells with Zr-rich BaZrxCe0.8−xY0.2O3−δ electrolytes (x ≥ 0.4) fabricated by a single-step reactive sintering method</b>  
+   <li><b>Evaluation of thin film fuel cells with Zr-rich BaZr<sub>x</sub>Ce<sub>0.8−x</sub>Y<sub>0.2</sub>O<sub>3−δ</sub> electrolytes (x ≥ 0.4) fabricated by a single-step reactive sintering method</b>  
        <br>S Jeong, T Kobayashi, K Kuroda, <u>H Kwon</u>, C Zhu, H Habazaki, Y Aoki  
        <br><i>RSC Advances 8 (46), 26309-26317</i>
        <a href="https://pubs.rsc.org/en/content/articlehtml/2018/ra/c8ra04724c">Read the paper</a> 

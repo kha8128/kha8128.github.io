@@ -16,10 +16,10 @@ menu:
     main:
         - name: Publications 
           url: /publications/
-#          weight: 1
-#        - name: Courses
-#          url: /courses/
-#          weight: 2
+          weight: 1
+        - name: About 
+          url: /about/
+          weight: 2
 #        - name: Design
 #          url: /design/
 #          weight: 3

@@ -82,7 +82,7 @@ I am passionate about the intersection of AI and materials discovery, particular
         - name: CV
           url: /cv.pdf
         - name: Email
-          url: kwon11@llnl.gov
+          url: "mailto:kwon11@llnl.gov"
 #        - name: Location
 #          url: /location/
 #        - name: Office Hours

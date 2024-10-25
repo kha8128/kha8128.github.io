@@ -1,7 +1,8 @@
 ---
 title: "About"
 ---
-Greetings! I am Hyuna Kwon, a postdoctoral researcher at Lawrence Livermore National Lab. My research focuses on computational chemistry, machine learning, and materials science.
+Greetings! I am **Dr. Hyuna Kwon**, a postdoctoral researcher at Lawrence Livermore National Laboratory (LLNL) in the Quantum Simulations Group. My research focuses on **computational chemistry and AI-driven materials science**, with applications in **energy storage** and **environmental remediation**.
 
-I am passionate about the intersection of AI and materials discovery, particularly in energy applications and sustainability. Please check out my CV, publications, and projects for more details about my work.
+I received my **Ph.D. in Chemical Environmental Engineering** from the [University of California, Riverside (UCR)](https://www.ucr.edu) in 2023, where I was advised by [Dr. De-en Jiang](https://faculty.ucr.edu/~djiang/). My Ph.D. research specialized in using machine learning models to predict PFAS degradation and bioactivity. Prior to that, I earned my **B.Sc. in Energy Resources and Chemical Biological Engineering** from [Seoul National University](https://en.snu.ac.kr/) in 2018.
 
+At LLNL, I am actively involved in several collaborative projects, including the [DOE Hydrogen Consortium](https://www.energy.gov/eere/fuelcells/hydrogen-consortia) and the [Ensembles of Photosynthetic Nanoreactors (EPN)](https://epn.chem.uci.edu/), focusing on sustainable energy solutions.

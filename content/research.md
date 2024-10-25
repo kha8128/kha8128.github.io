@@ -4,10 +4,10 @@ title: "Research"
 ### Materials Characterization
 
 #### Current Challenges:
-Amorphous carbon (a-C) is a widely used material in electronics, energy storage, and coatings due to its unique properties, including high hardness, chemical stability, and tunable electronic properties. However, predicting its structure-property relationships remains a challenge due to its disordered nature. Characterizing amorphous carbon accurately is crucial to understand its performance in various applications, yet conventional methods struggle with its complex, non-crystalline structure.
+Amorphous carbon (a-C) is a widely used material in electronics, energy storage, and coatings due to its unique properties, including high hardness, chemical stability, and tunable electronic properties. Characterizing amorphous carbon accurately is crucial to understand its performance in various applications, yet conventional methods struggle with its complex, non-crystalline structure.
 
 #### Our Approach:
-To address these challenges, I have applied machine learning models to predict the three-dimensional structure of amorphous carbon based on spectroscopy data. Using neural networks, we link spectral features to the atomic structure, allowing us to uncover previously unknown structure-spectrum relationships. This work also lays the foundation for using <b>generative models</b> to design new amorphous materials with desired properties.
+To address these challenges, I have applied machine learning models to predict the three-dimensional structure of amorphous carbon based on spectroscopy data. Using neural networks, we link spectral features to the atomic structure, allowing us to uncover previously unknown structure-spectrum relationships. This work also lays the foundation for using <b>generative models</b> to design new materials with desired properties.
 
 ![a-C Research Figure](/images/amorphous_carbon_figure.jpeg)
 

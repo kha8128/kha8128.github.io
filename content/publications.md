@@ -28,7 +28,7 @@ title: "Publications"
       <a href="https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces">Featured in DOE Newsline</a>
    </li>
 
-   ### 2023
+### 2023
    <li><b>Harnessing Neural Networks for Elucidating X-ray Absorption Structure–Spectrum Relationships in Amorphous Carbon</b>  
       <br><u>H Kwon</u>, W Sun, T Hsu, W Jeong, F Aydin, S Sharma, F Meng, ...  
       <br><i>The Journal of Physical Chemistry C 127 (33), 16473-16484</i>
@@ -47,7 +47,7 @@ title: "Publications"
       <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c02245">Read the paper</a> 
    </li>
    
-   ### 2022
+### 2022
    <li><b>Tuning Metal–Dihydrogen Interaction in Metal–Organic Frameworks for Hydrogen Storage</b>
       <br><u>H Kwon</u>, D Jiang  
       <br><i>The Journal of Physical Chemistry Letters 13 (39), 9129-9133</i>
@@ -66,7 +66,7 @@ title: "Publications"
       <a href="https://pubs.acs.org/doi/abs/10.1021/acs.iecr.1c04712">Read the paper</a>  
    </li>
 
-   ### 2021
+### 2021
    <li><b>Rerouting Pathways of Solid-State Ammonia Borane Energy Release</b>  
        <br>P Biswas, P Ghildiyal, <u>H Kwon</u>, H Wang, Z Alibay, F Xu, Y Wang, ...  
        <br><i>The Journal of Physical Chemistry C 126 (1), 48-57</i>
@@ -85,7 +85,7 @@ title: "Publications"
        <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.0c21716">Read the paper</a>  
    </li>
 
-   ### 2020
+### 2020
    <li><b>Degradation of perfluoroalkyl ether carboxylic acids with hydrated electrons: Structure–reactivity relationships and environmental implications</b>  
        <br>MJ Bentel, Y Yu, L Xu, <u>H Kwon</u>, Z Li, BM Wong, Y Men, J Liu  
        <br><i>Environmental Science & Technology 54 (4), 2489-2499</i>
@@ -98,7 +98,7 @@ title: "Publications"
        <a href="https://pubs.rsc.org/en/content/articlehtml/2020/cp/d0cp03832f">Read the paper</a>  
    </li> 
    
-   ### 2019
+### 2019
    <li><b>A Machine Learning Approach for Predicting Defluorination of Per-and Polyfluoroalkyl Substances (PFAS) for Their Efficient Treatment and Removal</b>  
        <br>A Raza, S Bardhan, L Xu, SS Yamijala, C Lian, <u>H Kwon</u>, BM Wong  
        <br><i>Environmental Science & Technology Letters 6 (10), 624-629</i>
@@ -111,7 +111,7 @@ title: "Publications"
        <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b01046">Read the paper</a>  
    </li> 
    
-   ### 2018
+### 2018
    <li><b>Photothermally Active Reduced Graphene Oxide/Bacterial Nanocellulose Composites as Biofouling-Resistant Ultrafiltration Membranes**  </b>
        <br>Q Jiang, D Ghim, S Cao, S Tadepalli, KK Liu, <u>H Kwon</u>, J Luan, Y Min, ...  
        <br><i>Environmental science & technology 53 (1), 412-421</i>

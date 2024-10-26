@@ -19,7 +19,8 @@ To address these challenges, I have applied <b>machine learning</b> models to pr
    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c02029)
 
 2. **Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models**  
-   <u>H Kwon</u>, T Hsu, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
+   <u>H Kwon</u><sup>1</sup>, T Hsu<sup>1</sup>, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
+   <sup>1</sup> Equal contribution
    *Accepted in Machine Learning: Science & Technology*  
    [Read the paper](https://arxiv.org/abs/2312.05472)
 

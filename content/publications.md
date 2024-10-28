@@ -16,7 +16,7 @@ title: "Publications"
       <br><u>H Kwon</u><sup>1</sup>, T Hsu<sup>1</sup>, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
       <br><sup>1</sup> Equal contribution  
       <br><i>Accepted; Machine Learning: Science & Technology</i>
-      <a href="https://arxiv.org/abs/2312.05472">Read the paper</a>  
+      <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad8c10/pdf">Read the paper</a>  
    </li>
    
    <li>

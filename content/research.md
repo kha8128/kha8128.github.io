@@ -22,7 +22,7 @@ To address these challenges, I have applied <b>machine learning</b> models to pr
    <u>H Kwon</u><sup>1</sup>, T Hsu<sup>1</sup>, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
    <sup>1</sup> Equal contribution
    *Accepted in Machine Learning: Science & Technology*  
-   [Read the paper](https://arxiv.org/abs/2312.05472)
+   [Read the paper](https://iopscience.iop.org/article/10.1088/2632-2153/ad8c10/pdf)
 
 ### Porous and Nanostructured Materials
 

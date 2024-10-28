@@ -45,7 +45,7 @@ Metal-Organic Frameworks (MOFs) are highly porous materials known for their capa
    <a href="https://www.energy.gov/eere/h2awsm/articles/hydrogen-team-research-featured-cover-acs-applied-materials-interfaces">Featured in DOE Newsline</a>
 
 2. **Tuning Metal–Dihydrogen Interaction in Metal–Organic Frameworks for Hydrogen Storage**  
-   <u>H Kwoni</u>, D Jiang  
+   <u>H Kwon</u>, D Jiang  
    *The Journal of Physical Chemistry Letters 13 (39), 9129-9133*  
    [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.2c02628)
 

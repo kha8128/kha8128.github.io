@@ -9,6 +9,7 @@ Amorphous carbon (a-C) is a widely used material in electronics, energy storage,
 #### Our Approach:
 To address these challenges, I have applied <b>machine learning</b> models to predict the three-dimensional structure of amorphous carbon based on spectroscopy data. Using neural networks, we link spectral features to the atomic structure, allowing us to uncover previously unknown structure-spectrum relationships. This work also lays the foundation for using <b>generative models</b> to design new materials with desired properties.
 
+<img src="/images/a-C_generation-with_plot.gif" alt="a-C Inverse Design Research Figure" style="width: 50%;"/>
 <img src="/images/jpccck.2023.127.issue-33.xlargecover-2.jpg" alt="a-C Research Figure" style="width: 50%;"/>
 
 #### Key Publications:
@@ -21,7 +22,7 @@ To address these challenges, I have applied <b>machine learning</b> models to pr
 2. **Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models**  
    <u>H Kwon</u><sup>1</sup>, T Hsu<sup>1</sup>, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
    <sup>1</sup> Equal contribution
-   *Accepted in Machine Learning: Science & Technology*  
+   *Machine Learning: Science & Technology 5, 045037*  
    [Read the paper](https://iopscience.iop.org/article/10.1088/2632-2153/ad8c10/pdf)
 
 ### Porous and Nanostructured Materials

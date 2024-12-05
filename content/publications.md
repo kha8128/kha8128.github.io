@@ -57,7 +57,8 @@ title: "Publications"
    <li><b>Harnessing semi-supervised machine learning to automatically predict bioactivities of per-and polyfluoroalkyl substances (PFASs)</b>  
       <br><u>H Kwon</u>, ZA Ali, BM Wong  
       <br><i>Environmental Science & Technology Letters 10 (11), 1017-1022</i>
-      <a href="https://pubs.acs.org/doi/abs/10.1021/acs.estlett.2c00530">Read the paper</a>  
+      <a href="https://pubs.acs.org/doi/abs/10.1021/acs.estlett.2c00530">Read the paper</a> 
+      <br>2023 Environmental Science & Technology Letters Best Paper Award
    </li>
 
    <li><b>Predicting Complex Erosion Profiles in Steam Distribution Headers with Convolutional and Recurrent Neural Networks</b>  

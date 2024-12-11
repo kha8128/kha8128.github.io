@@ -58,7 +58,7 @@ title: "Publications"
       <br><u>H Kwon</u>, ZA Ali, BM Wong  
       <br><i>Environmental Science & Technology Letters 10 (11), 1017-1022</i>
       <a href="https://pubs.acs.org/doi/abs/10.1021/acs.estlett.2c00530">Read the paper</a>
-      <br><span style="font-weight: bold; color: #d9534f; background-color: #f9f9f9; padding: 2px 4px; border-radius: 3px;"><a href="https://pubs.acs.org/doi/full/10.1021/acs.estlett.4c00981#:~:text=Our%20final%20Letter%20Best%20Paper,aquatic%20toxicity%2C%20under%20simulated%20sunlight">2023 Environmental Science & Technology Letters Best Paper Award</a></span>
+      <br><span style="font-weight: bold; color: #d9534f; background-color: #f9f9f9; padding: 2px 4px; border-radius: 3px;"><a href="https://pubs.acs.org/doi/full/10.1021/acs.estlett.4c00981">2023 Environmental Science & Technology Letters Best Paper Award</a></span>
    </li>
 
    <li><b>Predicting Complex Erosion Profiles in Steam Distribution Headers with Convolutional and Recurrent Neural Networks</b>  

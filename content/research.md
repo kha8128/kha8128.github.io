@@ -68,7 +68,8 @@ To address these challenges, I have applie <b>machine learning</b> approaches to
 1. **Harnessing semi-supervised machine learning to automatically predict bioactivities of per-and polyfluoroalkyl substances (PFASs)**   
    <u>H Kwon</u>, ZA Ali, BM Wong
    *Environmental Science & Technology Letters 10 (11), 1017-1022*
-   [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.estlett.2c00530)  
+   [Read the paper](https://pubs.acs.org/doi/abs/10.1021/acs.estlett.2c00530) 
+   [Best paper award](https://pubs.acs.org/doi/full/10.1021/acs.estlett.4c00981#:~:text=Our%20final%20Letter%20Best%20Paper,aquatic%20toxicity%2C%20under%20simulated%20sunlight)
 
 2. **Degradation of perfluoroalkyl ether carboxylic acids with hydrated electrons: Structure–reactivity relationships and environmental implications**  
     MJ Bentel, Y Yu, L Xu, <u>H Kwon</u>, Z Li, BM Wong, Y Men, J Liu

@@ -24,6 +24,8 @@ To address these challenges, I have applied <b>machine learning</b> models to pr
    <sup>1</sup> Equal contribution
    *Machine Learning: Science & Technology 5, 045037*  
    [Read the paper](https://iopscience.iop.org/article/10.1088/2632-2153/ad8c10/pdf)
+   [Featured in LLNL Newsline](https://www.llnl.gov/article/52146/predicting-atomic-structures-proves-useful-energy-sustainability)
+
 
 ### Porous and Nanostructured Materials
 

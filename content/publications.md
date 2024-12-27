@@ -83,13 +83,13 @@ title: "Publications"
 
    <li><b>Nanoarchitectonics of Metal-Free Porous Polyketone as Photocatalytic Assemblies for Artificial Photosynthesis</b>  
        <br>S Mondal, NS Powar, R Paul, <u>H Kwon</u>, N Das, BM Wong, SI In, J Mondal  
-       <br><i>*ACS Applied Materials & Interfaces 14 (1), 771-783</i>
+       <br><i>ACS Applied Materials & Interfaces 14 (1), 771-783</i>
        <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.1c18626">Read the paper</a>  
    </li>
 
    <li><b>Stability of Calcium Ion Battery Electrolytes: Predictions from Ab Initio Molecular Dynamics Simulations</b>  
        <br>SS Yamijala, <u>H Kwon</u>, J Guo, BM Wong  
-       <br><i>*ACS Applied Materials & Interfaces 13 (11), 13114-13122</i>
+       <br><i>ACS Applied Materials & Interfaces 13 (11), 13114-13122</i>
        <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.0c21716">Read the paper</a>  
    </li>
 

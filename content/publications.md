@@ -12,6 +12,12 @@ title: "Publications"
    </li>
 
    <li>
+      <b>Synthesis and Characterization of [Ni(H<sub>2</sub>O)(7-PPh<sub>2</sub>NArSO<sub>3</sub>)<sub>2</sub>](NaBF<sub>4</sub>) for Light-Driven Quantum Dot-Catalyst Hydrogen Evolution</b>
+      <br>Faith Flinkingshelt, Sophia Click, <u>Hyuna Kwon</u>, Joseph Ziller, Tuan Anh Pham, Tadashi Ogitsu, Gordana Dukovic, Jenny Yang
+      <br><i>Energy & Fuels, Accepted</i>
+   </li>
+
+   <li>
       <b>Spectroscopy-Guided Discovery of Three-Dimensional Structures of Disordered Materials with Diffusion Models</b>  
       <br><u>H Kwon</u><sup>1</sup>, T Hsu<sup>1</sup>, W Sun, W Jeong, F Aydin, J Chapman, X Chen, ...  
       <br><sup>1</sup> Equal contribution  
